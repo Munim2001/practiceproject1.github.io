@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.ruler{
+    margin-right: 74%;
+    width: 35%;
+}
+
+footer{
+    line-height: 50px;
+}
